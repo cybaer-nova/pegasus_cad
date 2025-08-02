@@ -2,7 +2,18 @@
 
 This repository contains the CAD model of the Pegasus quadrotors. The model was designed using Onshape and is available in step and stl formats.
 
-There are two models available:
+There are three models available:
+
+- **Version 3 (2025-):** The third version of the Pegasus quadrotor based on version 2, yet taylored for the needs of an ongoing side project at NOVA FCT. This version has a carbon fiber frame and 3D printed parts. It was also developed to be safer for flights near people and buildings.
+
+<p float="left" align="center">
+  <img src="docs/_static/full_assembly_v3.png" width="600" align="center"/> 
+</p>
+
+  * Developer Team:
+    * Drone frame designer: [Bruno Guerreiro](https://www.brunojnguerreiro.eu)
+    * Drone Support Feet (TBD): [Diogo Canané]()  
+
 
 - **Version 2 (2024-2025):** The second version of the Pegasus quadrotor. This version has a carbon fiber frame and 3D printed parts. It was developed to be safer for flights near people.
 
@@ -39,4 +50,5 @@ The work developed by Marcelo Jacinto was supported by Ph.D. grant funded by Fun
   <img src="docs/_static/larsys_logo.png" width="200" align="center"/> 
   <img src="docs/_static/ist_logo.png" width="200" align="center"/> 
   <img src="docs/_static/logo_fct.png" width="200" align="center"/> 
+  <img src="docs/_static/NOVA-FCT_logo.png" width="200" align="center"/> 
 </p>
